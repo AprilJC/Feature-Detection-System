@@ -1,0 +1,3 @@
+Detect.h|"C:\Users\April D\Desktop\Detect\Detect\Detect.h" -o ".\GeneratedFiles\Debug\moc_Detect.cpp" "-I.\GeneratedFiles" "-I." "-IG:\QT\5.9.2\msvc2015_64\include" "-I.\GeneratedFiles\Debug" "-IG:\QT\5.9.2\msvc2015_64\include\QtCore" "-IG:\QT\5.9.2\msvc2015_64\include\QtGui" "-IG:\QT\5.9.2\msvc2015_64\include\QtANGLE" "-IG:\QT\5.9.2\msvc2015_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+Detect.qrc|"E:\Biyesheji\Detect\Detect\Detect.qrc" -o ".\GeneratedFiles\qrc_Detect.cpp" --name Detect
+Detect.ui|"E:\Biyesheji\Detect\Detect\Detect.ui" -o ".\GeneratedFiles\ui_Detect.h"

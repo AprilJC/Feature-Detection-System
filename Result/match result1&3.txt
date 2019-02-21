@@ -1,0 +1,242 @@
+total match points in area0:2
+Corner in pic1:[650, 1824]	Match	Corner in pic3:[4424, 1735]
+Corner in pic1:[653, 1831]	Match	Corner in pic3:[4426, 1742]
+total match points in area1:2
+Corner in pic1:[625, 1524]	Match	Corner in pic3:[4410, 1443]
+Corner in pic1:[623, 1532]	Match	Corner in pic3:[4408, 1451]
+total match points in area2:2
+Corner in pic1:[657, 1226]	Match	Corner in pic3:[4450, 1158]
+Corner in pic1:[656, 1234]	Match	Corner in pic3:[4448, 1167]
+total match points in area3:2
+Corner in pic1:[745, 950]	Match	Corner in pic3:[4540, 898]
+Corner in pic1:[747, 942]	Match	Corner in pic3:[4542, 889]
+total match points in area4:2
+Corner in pic1:[890, 685]	Match	Corner in pic3:[4682, 648]
+Corner in pic1:[887, 692]	Match	Corner in pic3:[4679, 653]
+total match points in area5:2
+Corner in pic1:[1076, 468]	Match	Corner in pic3:[4863, 438]
+Corner in pic1:[1079, 464]	Match	Corner in pic3:[4858, 443]
+total match points in area6:2
+Corner in pic1:[1307, 282]	Match	Corner in pic3:[5076, 265]
+Corner in pic1:[1300, 286]	Match	Corner in pic3:[5071, 268]
+total match points in area7:2
+Corner in pic1:[1563, 147]	Match	Corner in pic3:[5318, 134]
+Corner in pic1:[1556, 150]	Match	Corner in pic3:[5311, 137]
+total match points in area8:2
+Corner in pic1:[1832, 67]	Match	Corner in pic3:[5580, 50]
+Corner in pic1:[1841, 66]	Match	Corner in pic3:[5572, 51]
+total match points in area9:2
+Corner in pic1:[2120, 37]	Match	Corner in pic3:[5844, 14]
+Corner in pic1:[2129, 40]	Match	Corner in pic3:[5853, 17]
+total match points in area10:2
+Corner in pic1:[2416, 66]	Match	Corner in pic3:[6120, 30]
+Corner in pic1:[2408, 65]	Match	Corner in pic3:[6128, 30]
+total match points in area11:2
+Corner in pic1:[2685, 145]	Match	Corner in pic3:[6389, 93]
+Corner in pic1:[2691, 150]	Match	Corner in pic3:[6395, 98]
+total match points in area12:2
+Corner in pic1:[2942, 277]	Match	Corner in pic3:[6641, 209]
+Corner in pic1:[2946, 283]	Match	Corner in pic3:[6649, 212]
+total match points in area13:2
+Corner in pic1:[3166, 456]	Match	Corner in pic3:[6877, 374]
+Corner in pic1:[3169, 463]	Match	Corner in pic3:[6872, 368]
+total match points in area14:2
+Corner in pic1:[3355, 682]	Match	Corner in pic3:[7072, 578]
+Corner in pic1:[3352, 676]	Match	Corner in pic3:[7068, 572]
+total match points in area15:2
+Corner in pic1:[3494, 923]	Match	Corner in pic3:[7228, 816]
+Corner in pic1:[3500, 935]	Match	Corner in pic3:[7224, 812]
+total match points in area16:2
+Corner in pic1:[3587, 1209]	Match	Corner in pic3:[7335, 1088]
+Corner in pic1:[3587, 1209]	Match	Corner in pic3:[7335, 1088]
+total match points in area17:2
+Corner in pic1:[3623, 1496]	Match	Corner in pic3:[7390, 1369]
+Corner in pic1:[3624, 1489]	Match	Corner in pic3:[7389, 1377]
+total match points in area18:2
+Corner in pic1:[3604, 1789]	Match	Corner in pic3:[7386, 1675]
+Corner in pic1:[3604, 1789]	Match	Corner in pic3:[7386, 1675]
+total match points in area19:2
+Corner in pic1:[3531, 2065]	Match	Corner in pic3:[7321, 1970]
+Corner in pic1:[3539, 2055]	Match	Corner in pic3:[7323, 1964]
+total match points in area20:2
+Corner in pic1:[3403, 2328]	Match	Corner in pic3:[7200, 2244]
+Corner in pic1:[3397, 2341]	Match	Corner in pic3:[7198, 2251]
+total match points in area21:2
+Corner in pic1:[3224, 2566]	Match	Corner in pic3:[7020, 2497]
+Corner in pic1:[3217, 2573]	Match	Corner in pic3:[7013, 2504]
+total match points in area22:2
+Corner in pic1:[2823, 2180]	Match	Corner in pic3:[6563, 2077]
+Corner in pic1:[1220, 1712]	Match	Corner in pic3:[4966, 1624]
+total match points in area23:4
+Corner in pic1:[1223, 1514]	Match	Corner in pic3:[4972, 1437]
+Corner in pic1:[1201, 1521]	Match	Corner in pic3:[4970, 1448]
+Corner in pic1:[1202, 1525]	Match	Corner in pic3:[4952, 1448]
+Corner in pic1:[1221, 1527]	Match	Corner in pic3:[4953, 1443]
+total match points in area24:2
+Corner in pic1:[1221, 1336]	Match	Corner in pic3:[4974, 1263]
+Corner in pic1:[1222, 1342]	Match	Corner in pic3:[4974, 1270]
+total match points in area25:4
+Corner in pic1:[1298, 1160]	Match	Corner in pic3:[5051, 1094]
+Corner in pic1:[1291, 1172]	Match	Corner in pic3:[5044, 1106]
+Corner in pic1:[1274, 1164]	Match	Corner in pic3:[5027, 1098]
+Corner in pic1:[1275, 1158]	Match	Corner in pic3:[5028, 1094]
+total match points in area26:2
+Corner in pic1:[1361, 1001]	Match	Corner in pic3:[5112, 942]
+Corner in pic1:[1364, 996]	Match	Corner in pic3:[5114, 936]
+total match points in area27:4
+Corner in pic1:[1501, 865]	Match	Corner in pic3:[5247, 811]
+Corner in pic1:[1493, 872]	Match	Corner in pic3:[5239, 818]
+Corner in pic1:[1484, 856]	Match	Corner in pic3:[5234, 801]
+Corner in pic1:[1481, 857]	Match	Corner in pic3:[5228, 802]
+total match points in area28:2
+Corner in pic1:[1619, 742]	Match	Corner in pic3:[5365, 690]
+Corner in pic1:[1624, 739]	Match	Corner in pic3:[5360, 692]
+total match points in area29:4
+Corner in pic1:[1799, 670]	Match	Corner in pic3:[5520, 605]
+Corner in pic1:[1786, 654]	Match	Corner in pic3:[5522, 624]
+Corner in pic1:[1789, 673]	Match	Corner in pic3:[5532, 620]
+Corner in pic1:[1781, 656]	Match	Corner in pic3:[5515, 608]
+total match points in area30:2
+Corner in pic1:[1962, 601]	Match	Corner in pic3:[5689, 552]
+Corner in pic1:[1956, 602]	Match	Corner in pic3:[5683, 552]
+total match points in area31:4
+Corner in pic1:[2144, 584]	Match	Corner in pic3:[5868, 549]
+Corner in pic1:[2138, 584]	Match	Corner in pic3:[5863, 531]
+Corner in pic1:[2150, 604]	Match	Corner in pic3:[5857, 531]
+Corner in pic1:[2138, 601]	Match	Corner in pic3:[5857, 547]
+total match points in area32:2
+Corner in pic1:[2326, 601]	Match	Corner in pic3:[6033, 540]
+Corner in pic1:[2319, 599]	Match	Corner in pic3:[6039, 541]
+total match points in area33:4
+Corner in pic1:[2499, 654]	Match	Corner in pic3:[6209, 587]
+Corner in pic1:[2487, 670]	Match	Corner in pic3:[6203, 584]
+Corner in pic1:[2492, 651]	Match	Corner in pic3:[6197, 601]
+Corner in pic1:[2496, 675]	Match	Corner in pic3:[6207, 605]
+total match points in area34:2
+Corner in pic1:[2655, 735]	Match	Corner in pic3:[6364, 659]
+Corner in pic1:[2660, 739]	Match	Corner in pic3:[6369, 661]
+total match points in area35:4
+Corner in pic1:[2788, 869]	Match	Corner in pic3:[6495, 778]
+Corner in pic1:[2796, 848]	Match	Corner in pic3:[6507, 763]
+Corner in pic1:[2785, 864]	Match	Corner in pic3:[6510, 769]
+Corner in pic1:[2800, 855]	Match	Corner in pic3:[6502, 786]
+total match points in area36:2
+Corner in pic1:[2919, 991]	Match	Corner in pic3:[6632, 898]
+Corner in pic1:[2914, 989]	Match	Corner in pic3:[6628, 894]
+total match points in area37:4
+Corner in pic1:[2991, 1166]	Match	Corner in pic3:[6715, 1067]
+Corner in pic1:[3004, 1147]	Match	Corner in pic3:[6726, 1062]
+total match points in area38:2
+Corner in pic1:[3059, 1326]	Match	Corner in pic3:[6788, 1218]
+Corner in pic1:[3059, 1326]	Match	Corner in pic3:[6788, 1218]
+total match points in area39:4
+Corner in pic1:[3079, 1501]	Match	Corner in pic3:[6814, 1411]
+Corner in pic1:[3065, 1513]	Match	Corner in pic3:[6814, 1399]
+Corner in pic1:[3066, 1502]	Match	Corner in pic3:[6801, 1409]
+Corner in pic1:[3080, 1511]	Match	Corner in pic3:[6801, 1399]
+total match points in area40:2
+Corner in pic1:[3068, 1691]	Match	Corner in pic3:[6811, 1585]
+Corner in pic1:[3069, 1686]	Match	Corner in pic3:[6810, 1589]
+total match points in area41:4
+Corner in pic1:[3002, 1866]	Match	Corner in pic3:[6768, 1768]
+Corner in pic1:[3007, 1855]	Match	Corner in pic3:[6748, 1770]
+Corner in pic1:[3020, 1868]	Match	Corner in pic3:[6765, 1772]
+Corner in pic1:[3020, 1863]	Match	Corner in pic3:[6752, 1758]
+total match points in area42:2
+Corner in pic1:[2939, 2030]	Match	Corner in pic3:[6686, 1941]
+Corner in pic1:[2936, 2034]	Match	Corner in pic3:[6689, 1939]
+total match points in area43:4
+Corner in pic1:[2816, 2161]	Match	Corner in pic3:[6576, 2091]
+Corner in pic1:[2827, 2176]	Match	Corner in pic3:[6574, 2093]
+Corner in pic1:[2806, 2173]	Match	Corner in pic3:[6555, 2088]
+Corner in pic1:[0, 0]	Match	Corner in pic3:[4000, 0]
+total match points in area44:1
+Corner in pic1:[965, 1888]	Match	Corner in pic3:[4719, 1800]
+total match points in area45:1
+Corner in pic1:[914, 1651]	Match	Corner in pic3:[4677, 1568]
+total match points in area46:1
+Corner in pic1:[917, 1404]	Match	Corner in pic3:[4686, 1329]
+total match points in area47:1
+Corner in pic1:[965, 1167]	Match	Corner in pic3:[4737, 1104]
+total match points in area48:1
+Corner in pic1:[1060, 944]	Match	Corner in pic3:[4832, 891]
+total match points in area49:1
+Corner in pic1:[1197, 747]	Match	Corner in pic3:[4962, 700]
+total match points in area50:1
+Corner in pic1:[1365, 579]	Match	Corner in pic3:[5125, 542]
+total match points in area51:1
+Corner in pic1:[1563, 447]	Match	Corner in pic3:[5311, 420]
+total match points in area52:1
+Corner in pic1:[1783, 357]	Match	Corner in pic3:[5521, 328]
+total match points in area53:1
+Corner in pic1:[2013, 311]	Match	Corner in pic3:[5739, 276]
+total match points in area54:1
+Corner in pic1:[2252, 313]	Match	Corner in pic3:[5970, 267]
+total match points in area55:1
+Corner in pic1:[2485, 357]	Match	Corner in pic3:[6190, 303]
+total match points in area56:1
+Corner in pic1:[2700, 444]	Match	Corner in pic3:[6406, 378]
+total match points in area57:1
+Corner in pic1:[2898, 575]	Match	Corner in pic3:[6605, 494]
+total match points in area58:1
+Corner in pic1:[3066, 737]	Match	Corner in pic3:[6779, 646]
+total match points in area59:1
+Corner in pic1:[3200, 932]	Match	Corner in pic3:[6919, 828]
+total match points in area60:1
+Corner in pic1:[3296, 1147]	Match	Corner in pic3:[7027, 1041]
+total match points in area61:1
+Corner in pic1:[3349, 1383]	Match	Corner in pic3:[7092, 1271]
+total match points in area62:1
+Corner in pic1:[3355, 1619]	Match	Corner in pic3:[7110, 1512]
+total match points in area63:1
+Corner in pic1:[3315, 1851]	Match	Corner in pic3:[7078, 1748]
+total match points in area64:1
+Corner in pic1:[3236, 2067]	Match	Corner in pic3:[6999, 1983]
+total match points in area65:1
+Corner in pic1:[3103, 2282]	Match	Corner in pic3:[6874, 2198]
+total match points in area66:1
+Corner in pic1:[1532, 1646]	Match	Corner in pic3:[5266, 1564]
+total match points in area67:1
+Corner in pic1:[1535, 1388]	Match	Corner in pic3:[5271, 1313]
+total match points in area68:1
+Corner in pic1:[1628, 1168]	Match	Corner in pic3:[5363, 1098]
+total match points in area69:1
+Corner in pic1:[1802, 993]	Match	Corner in pic3:[5532, 931]
+total match points in area70:1
+Corner in pic1:[2028, 905]	Match	Corner in pic3:[5750, 838]
+total match points in area71:1
+Corner in pic1:[2273, 906]	Match	Corner in pic3:[5988, 835]
+total match points in area72:1
+Corner in pic1:[2497, 997]	Match	Corner in pic3:[6210, 916]
+total match points in area73:1
+Corner in pic1:[2669, 1165]	Match	Corner in pic3:[6385, 1077]
+total match points in area74:1
+Corner in pic1:[2764, 1387]	Match	Corner in pic3:[6487, 1295]
+total match points in area75:1
+Corner in pic1:[2766, 1631]	Match	Corner in pic3:[6495, 1535]
+total match points in area76:1
+Corner in pic1:[2678, 1862]	Match	Corner in pic3:[6410, 1771]
+total match points in area77:2
+Corner in pic1:[1843, 1388]	Match	Corner in pic3:[5569, 1310]
+Corner in pic1:[1844, 1397]	Match	Corner in pic3:[5571, 1307]
+total match points in area78:2
+Corner in pic1:[1922, 1278]	Match	Corner in pic3:[5644, 1202]
+Corner in pic1:[1914, 1282]	Match	Corner in pic3:[5640, 1205]
+total match points in area79:2
+Corner in pic1:[2024, 1208]	Match	Corner in pic3:[5751, 1130]
+Corner in pic1:[2028, 1207]	Match	Corner in pic3:[5744, 1131]
+total match points in area80:2
+Corner in pic1:[2152, 1183]	Match	Corner in pic3:[5870, 1104]
+Corner in pic1:[2155, 1183]	Match	Corner in pic3:[5874, 1106]
+total match points in area81:2
+Corner in pic1:[2278, 1207]	Match	Corner in pic3:[5995, 1126]
+Corner in pic1:[2284, 1209]	Match	Corner in pic3:[6001, 1128]
+total match points in area82:2
+Corner in pic1:[2390, 1279]	Match	Corner in pic3:[6108, 1197]
+Corner in pic1:[2392, 1282]	Match	Corner in pic3:[6107, 1194]
+total match points in area83:2
+Corner in pic1:[2457, 1380]	Match	Corner in pic3:[6180, 1311]
+Corner in pic1:[2460, 1395]	Match	Corner in pic3:[6177, 1295]
+total match points in area84:2
+Corner in pic1:[2484, 1507]	Match	Corner in pic3:[6204, 1436]
+Corner in pic1:[2484, 1523]	Match	Corner in pic3:[6206, 1420]
